@@ -1,0 +1,10 @@
+{"case": 1, "source": {"dimension": 1, "active": [0, 0], "k": 0}, "yes": true, "demands": 0, "recoveries_so_far": 2}
+{"case": 2, "source": {"dimension": 1, "active": [1, 0], "k": 0}, "yes": false, "demands": 1, "recoveries_so_far": 2}
+{"case": 3, "source": {"dimension": 1, "active": [1, 1], "k": 1}, "yes": true, "demands": 294, "recoveries_so_far": 4}
+{"case": 4, "source": {"dimension": 2, "active": [1, 0, 0, 1], "k": 1}, "yes": false, "demands": 5106, "recoveries_so_far": 4}
+{"case": 5, "source": {"dimension": 2, "active": [1, 0, 0, 1], "k": 2}, "yes": true, "demands": 0, "recoveries_so_far": 6}
+{"case": 6, "source": {"dimension": 2, "active": [1, 1, 1, 1], "k": 1}, "yes": false, "demands": 5106, "recoveries_so_far": 6}
+{"case": 7, "source": {"dimension": 2, "active": [1, 1, 1, 1], "k": 2}, "yes": true, "demands": 5105, "recoveries_so_far": 8}
+{"case": 8, "source": {"dimension": 2, "active": [1, 1, 0, 1], "k": 1}, "yes": true, "demands": 5106, "recoveries_so_far": 10}
+{"case": 9, "source": {"dimension": 1, "active": [1], "k": 1}, "yes": false, "demands": 1, "recoveries_so_far": 10}
+{"passed_sources": 9, "recoveries": 10}

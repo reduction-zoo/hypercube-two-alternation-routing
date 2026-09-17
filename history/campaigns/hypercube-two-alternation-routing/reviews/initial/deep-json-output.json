@@ -1,0 +1,6 @@
+{
+  "input_description": "2000 nested arrays containing zero (valid JSON, invalid source schema)",
+  "returncode": 0,
+  "stdout": "{\"cube\": \"1\", \"demands\": [[0, 1, 1]], \"bound\": 0}\n",
+  "stderr": ""
+}

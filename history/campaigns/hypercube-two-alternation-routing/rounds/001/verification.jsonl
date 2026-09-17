@@ -1,0 +1,37 @@
+{"case": 1, "source": {"dimension": 1, "active": [1, 0], "k": 1}, "yes": true, "solver_queries": 0}
+{"case": 2, "source": {"dimension": 1, "active": [0, 1], "k": 1}, "yes": true, "solver_queries": 0}
+{"case": 3, "source": {"dimension": 1, "active": [1, 1], "k": 1}, "yes": true, "solver_queries": 5}
+{"case": 4, "source": {"dimension": 1, "active": [1, 1], "k": 2}, "yes": true, "solver_queries": 0}
+{"case": 5, "source": {"dimension": 2, "active": [1, 0, 0, 0], "k": 1}, "yes": true, "solver_queries": 0}
+{"case": 6, "source": {"dimension": 2, "active": [0, 1, 0, 0], "k": 1}, "yes": true, "solver_queries": 0}
+{"case": 7, "source": {"dimension": 2, "active": [1, 1, 0, 0], "k": 1}, "yes": true, "solver_queries": 7}
+{"case": 8, "source": {"dimension": 2, "active": [1, 1, 0, 0], "k": 2}, "yes": true, "solver_queries": 0}
+{"case": 9, "source": {"dimension": 2, "active": [0, 0, 1, 0], "k": 1}, "yes": true, "solver_queries": 0}
+{"case": 10, "source": {"dimension": 2, "active": [1, 0, 1, 0], "k": 1}, "yes": true, "solver_queries": 7}
+{"case": 11, "source": {"dimension": 2, "active": [1, 0, 1, 0], "k": 2}, "yes": true, "solver_queries": 0}
+{"case": 12, "source": {"dimension": 2, "active": [0, 1, 1, 0], "k": 1}, "yes": false, "solver_queries": 7}
+{"case": 13, "source": {"dimension": 2, "active": [0, 1, 1, 0], "k": 2}, "yes": true, "solver_queries": 0}
+{"case": 14, "source": {"dimension": 2, "active": [1, 1, 1, 0], "k": 1}, "yes": true, "solver_queries": 7}
+{"case": 15, "source": {"dimension": 2, "active": [1, 1, 1, 0], "k": 2}, "yes": true, "solver_queries": 7}
+{"case": 16, "source": {"dimension": 2, "active": [1, 1, 1, 0], "k": 3}, "yes": true, "solver_queries": 0}
+{"case": 17, "source": {"dimension": 2, "active": [0, 0, 0, 1], "k": 1}, "yes": true, "solver_queries": 0}
+{"case": 18, "source": {"dimension": 2, "active": [1, 0, 0, 1], "k": 1}, "yes": false, "solver_queries": 7}
+{"case": 19, "source": {"dimension": 2, "active": [1, 0, 0, 1], "k": 2}, "yes": true, "solver_queries": 0}
+{"case": 20, "source": {"dimension": 2, "active": [0, 1, 0, 1], "k": 1}, "yes": true, "solver_queries": 7}
+{"case": 21, "source": {"dimension": 2, "active": [0, 1, 0, 1], "k": 2}, "yes": true, "solver_queries": 0}
+{"case": 22, "source": {"dimension": 2, "active": [1, 1, 0, 1], "k": 1}, "yes": true, "solver_queries": 7}
+{"case": 23, "source": {"dimension": 2, "active": [1, 1, 0, 1], "k": 2}, "yes": true, "solver_queries": 7}
+{"case": 24, "source": {"dimension": 2, "active": [1, 1, 0, 1], "k": 3}, "yes": true, "solver_queries": 0}
+{"case": 25, "source": {"dimension": 2, "active": [0, 0, 1, 1], "k": 1}, "yes": true, "solver_queries": 7}
+{"case": 26, "source": {"dimension": 2, "active": [0, 0, 1, 1], "k": 2}, "yes": true, "solver_queries": 0}
+{"case": 27, "source": {"dimension": 2, "active": [1, 0, 1, 1], "k": 1}, "yes": true, "solver_queries": 7}
+{"case": 28, "source": {"dimension": 2, "active": [1, 0, 1, 1], "k": 2}, "yes": true, "solver_queries": 7}
+{"case": 29, "source": {"dimension": 2, "active": [1, 0, 1, 1], "k": 3}, "yes": true, "solver_queries": 0}
+{"case": 30, "source": {"dimension": 2, "active": [0, 1, 1, 1], "k": 1}, "yes": true, "solver_queries": 7}
+{"case": 31, "source": {"dimension": 2, "active": [0, 1, 1, 1], "k": 2}, "yes": true, "solver_queries": 7}
+{"case": 32, "source": {"dimension": 2, "active": [0, 1, 1, 1], "k": 3}, "yes": true, "solver_queries": 0}
+{"case": 33, "source": {"dimension": 2, "active": [1, 1, 1, 1], "k": 1}, "yes": false, "solver_queries": 7}
+{"case": 34, "source": {"dimension": 2, "active": [1, 1, 1, 1], "k": 2}, "yes": true, "solver_queries": 7}
+{"case": 35, "source": {"dimension": 2, "active": [1, 1, 1, 1], "k": 3}, "yes": true, "solver_queries": 7}
+{"case": 36, "source": {"dimension": 2, "active": [1, 1, 1, 1], "k": 4}, "yes": true, "solver_queries": 0}
+{"sources": 36, "recoveries": 66, "solver_queries": 124}
