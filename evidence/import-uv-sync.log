@@ -1,0 +1,5 @@
+Using CPython 3.12.11
+Creating virtual environment at: .venv
+Resolved 2 packages in 3ms
+Installed 1 package in 2ms
+ + z3-solver==5.1.0.0

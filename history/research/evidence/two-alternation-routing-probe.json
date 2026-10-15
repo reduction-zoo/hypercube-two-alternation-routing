@@ -1,0 +1,26 @@
+{
+  "source_cases": 36,
+  "configurations": 70,
+  "low_demand_distance_checks": 192,
+  "feasible_configurations": 54,
+  "forced_edges_min": 291,
+  "forced_edges_max": 5105,
+  "unguarded_counterexample": {
+    "dimension": 30,
+    "targets": [
+      0,
+      3
+    ],
+    "k": 1,
+    "selected": 0,
+    "extra_edge": [
+      3,
+      65025
+    ],
+    "scaled_low_costs": [
+      5,
+      4
+    ],
+    "scaled_low_budget": 12
+  }
+}

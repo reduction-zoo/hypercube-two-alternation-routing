@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="330" viewBox="0 0 720 330">
+<rect width="720" height="330" fill="white"/>
+<g font-family="Libertinus Serif, serif" font-size="17" fill="#171717">
+<text x="16" y="24" font-weight="bold">(a) Selected vertices use the available slots</text>
+<g stroke="#171717" stroke-width="2.2" fill="none">
+<path d="M150 64 L230 103 L150 142 L70 103 Z"/>
+<path d="M150 64 L340 64 M150 142 L340 142" stroke="#184c8c" stroke-dasharray="8 5"/>
+<path d="M340 64 L560 103 M340 142 L560 103"/>
+</g>
+<g fill="white" stroke="#171717" stroke-width="2.2">
+<circle cx="230" cy="103" r="6"/><circle cx="70" cy="103" r="6"/>
+<circle cx="340" cy="64" r="6"/><circle cx="340" cy="142" r="6"/>
+<circle cx="560" cy="103" r="6"/>
+</g>
+<g fill="#184c8c" stroke="#171717" stroke-width="2"><circle cx="150" cy="64" r="6"/><circle cx="150" cy="142" r="6"/></g>
+<text x="137" y="52">00</text><text x="245" y="108">01</text>
+<text x="38" y="108">10</text><text x="138" y="166">11</text>
+<text x="354" y="59" font-style="italic">v₁</text><text x="354" y="157" font-style="italic">v₂</text>
+<text x="573" y="108" font-style="italic">o</text>
+<text x="211" y="56">½</text><text x="249" y="164">½</text>
+<text x="437" y="68">r</text><text x="437" y="152">r</text>
+<text x="610" y="85">k = 2</text><text x="610" y="110">r = 2</text>
+<text x="16" y="209" font-weight="bold">(b) Occupying the partner ball excludes a cheaper route</text>
+<ellipse cx="457" cy="262" rx="70" ry="44" fill="#f2f2f2" stroke="#171717" stroke-width="2"/>
+<path d="M70 265 H245 M457 265 H635" fill="none" stroke="#184c8c" stroke-width="2.2" stroke-dasharray="8 5"/>
+<path d="M245 265 H457" fill="none" stroke="#171717" stroke-width="2.2"/>
+<g fill="white" stroke="#171717" stroke-width="2.2"><circle cx="70" cy="265" r="6"/><circle cx="245" cy="265" r="6"/><circle cx="457" cy="265" r="6"/><circle cx="635" cy="265" r="6"/></g>
+<text x="65" y="293" font-style="italic">u</text><text x="240" y="293" font-style="italic">z</text>
+<text x="452" y="289" font-style="italic">s</text><text x="630" y="293" font-style="italic">o</text>
+<text x="150" y="255">½</text><text x="325" y="255">≥ r + 1</text><text x="547" y="255">½</text>
+<text x="412" y="243">B(s, r)</text>
+<text x="211" y="318">z must lie outside the occupied ball; route cost ≥ r + 2.</text>
+</g></svg>

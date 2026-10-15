@@ -1,0 +1,3 @@
+Uninstalled 1 package in 2ms
+Installed 1 package in 2ms
+{"z3": "5.1.0", "target_exhaustive_crosschecks": 18, "source_cases": 9, "malformed_target_and_wrong_witnesses_rejected": true}

@@ -1,0 +1,11 @@
+[
+  {"source":{"dimension":1,"active":[0,0],"k":0},"yes":true},
+  {"source":{"dimension":1,"active":[1,0],"k":0},"yes":false},
+  {"source":{"dimension":1,"active":[1,1],"k":1},"yes":true},
+  {"source":{"dimension":2,"active":[1,0,0,1],"k":1},"yes":false},
+  {"source":{"dimension":2,"active":[1,0,0,1],"k":2},"yes":true},
+  {"source":{"dimension":2,"active":[1,1,1,1],"k":1},"yes":false},
+  {"source":{"dimension":2,"active":[1,1,1,1],"k":2},"yes":true},
+  {"source":{"dimension":2,"active":[1,1,0,1],"k":1},"yes":true},
+  {"source":{"dimension":1,"active":[1],"k":1},"yes":false}
+]
