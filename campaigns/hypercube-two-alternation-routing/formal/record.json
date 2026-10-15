@@ -1,0 +1,7 @@
+{
+  "id": "Q020",
+  "source_definition": "The source gives d\u22651, an explicit binary activity array of length 2\u1d48 defining T, and k\u22650. Its outputs are subsets X\u2286T of size at most k that dominate the cube graph induced by T, or NO-SOLUTION.",
+  "target_definition": "The target gives a hypercube dimension \u2113\u22651 in unary, positive integer weighted ordered demands between distinct vertices, and a nonnegative integer K. A valid output is a partial matching whose demand-weighted shortest-route cost is at most K/2. Static edges cost 1, matching edges cost 1/2, and each route changes link medium at most twice. Every vertex has one switch port; there are no capacity or congestion constraints. Return NO-SOLUTION if no matching qualifies.",
+  "required_result": "Construct deterministic polynomial-time maps F and G: F sends every legal source instance to a legal target instance, and G(x,y) is a valid source output for every valid output y of F(x). Preserve the stated threshold, domain and promises. The requested complexity conclusion is NP-hardness for the stated target problem.",
+  "equation": ""
+}
